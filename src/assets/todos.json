@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Hit the Gym",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "name": "Pay bills",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "name": "Call Frank",
+        "completed": true
+    },
+    {
+        "id": 4,
+        "name": "Read a book",
+        "completed": true
+    }
+]
